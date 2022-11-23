@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "skikananaskisbackcountry.github.io"
+  navbar:
+    left:
+      - about.qmd
+      - icon: github
+        href: https://github.com/benwardswards
+      - icon: mastodon
+        href: https://techhub.social/@bdwards
+      - icon: twitter
+        href: https://twitter.com/WardsBen
+format:
+  html:
+    theme: superhero
+    css: styles.css

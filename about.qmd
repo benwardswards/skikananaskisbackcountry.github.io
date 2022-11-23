@@ -1,0 +1,24 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: wardsbd
+      href: https://twitter.com/WardsBen
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ben-wards-014a8282
+    - icon: github
+      text: benwardswards
+      href: https://github.com/benwardswards
+    - icon: mastodon
+      text: Mastodon
+      href: https://techhub.social/@bdwards
+
+---
+
+I love exploring the Canada Rockies in search of pow, peaks, ski lines, and adventure. 
+
+![](beneathbyebyenov2022.jpg)
