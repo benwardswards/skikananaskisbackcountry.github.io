@@ -3,7 +3,7 @@ title: "Beacons"
 author: "Ben Wards"
 date: "2022-12-03"
 categories: [ avalanches, beacons]
-image: mammutbarryvox.jpg
+image: img/mammutbarryvox.jpg
 toc: true
 ---
 
