@@ -55,6 +55,7 @@ This my current beacon. It costs a little more than the other beacons. It has lo
 ## Batteries 
 
 All modern beacons now take 3 AAA batteries.
+
 - Don't use rechargeable batteries.  The charge rapidly declines below 60 percent, and are unpredictable in the cold.
 - Prior to a multiple day trip, I'll make sure my batteries are over 85%.
 - prior to a single day trip, I will replace the batteries if they are below 55%.
@@ -63,6 +64,7 @@ All modern beacons now take 3 AAA batteries.
 - Use batteries as groups of three. Never replace a single battery.
 - Use Duracell or Energizer batteries.  Kirkland (Costco) batteries have a good reputation but I have not used them. Other manufactures have lower tolerances for battery length and reduced battery life.
 - The springs in the battery compartment sometimes fatigue and become shorter or get corroded, inspect them regularly.
+- Use alkaline unless you check your unit can use lithium. [Avalanche Beacon Batteries](https://www.alpineascents.com/blog/avalanche-beacon-batteries/), [Lithium](https://beaconreviews.com/batteries.php)
 
 ## Beacon Check
 
