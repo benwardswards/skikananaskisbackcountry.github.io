@@ -2,8 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Purcell-Lodge/index.html",
+      "/posts/Frozen-Lake/index.html",
       "/posts/Beacons/index.html",
-      "/posts/Early-Season/index.html"
+      "/posts/Kananaskis-Run-List/index.html"
     ]
   }
 ]
